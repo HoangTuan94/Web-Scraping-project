@@ -1,0 +1,5 @@
+# Web-Scraping-project
+This project used web scraping technique in Python to collect Property Management Software (PMS) data from multiple pages on SoftwareAdvices.com It includes Python codes in Jupyter Notebook, Excel spreadsheet and Tableau file. 
+The project aims to create a new property management software from draft, including the most favorite features of existing PMS softeware on the market, and eliminating the inessential as well.
+The idea is to scrape data from a website, where customers' personal information, review, rating, comments of a variety of current PMS. Then, the data will go through ETL processes and built a dashboard for visualization. The comment and review will go through sentiment analysis to extract frequent key word, which is also the most concern issue of users. However, the project did not use any machine learning technique for classifying customer group or deep analysis and so on.
+Finally, the project also did a simple user interface design to show the appearance of my PMS product.
